@@ -3,6 +3,6 @@
     <title> Latihan 1 </title>
   </head>
   <body>
-      <?= Helo2 ?>
+      <?= Helo200 ?>
   </body>
 </html>
